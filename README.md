@@ -13,5 +13,5 @@ This project is created as part of demonstrating testing skills for a Full Stack
 
 ---
 
-## 🗂️ Project Structure
+
 
